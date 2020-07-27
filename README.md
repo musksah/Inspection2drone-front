@@ -17,7 +17,7 @@ _Menciona las herramientas que utilizaste para crear tu proyecto_
 
 ## Autor
 
-* **Sebastián Andrés Huérfano** - *Primera Versión* - [musksah](https://github.com/musksah/)
+* **Sebastián Andrés Huérfano** - *Único autor* - [musksah](https://github.com/musksah/)
 
 ## Licencia 📄
 
