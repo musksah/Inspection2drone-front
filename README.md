@@ -1,6 +1,6 @@
 # Inspection2drone FrontEnd
 
-Aplicación web estilo SPA de una empresa de servicio de analítica con drones. Tiene una landign page, un dashboard de administración y pagos en línea con PAYU.
+Aplicación web estilo SPA de una empresa de servicio de analítica con drones. Tiene una landing page, un dashboard de administración y pagos en línea con PAYU.
 Este repositorio pertenece al FRONTEND de la aplicación el BACKEND se encuentra aquí: [Link Backend](https://github.com/musksah/inspection2drone)
 
 ## Deployment 🚀
