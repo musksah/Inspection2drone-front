@@ -7,7 +7,7 @@
             {[`bg-${type}`]: type},
             {'rounded': round}
          ]">
-        <div class="container">
+        <div class="container-fluid">
             <slot name="container-pre"></slot>
             <slot name="brand">
                 <a class="navbar-brand" href="#" @click.prevent="onTitleClick">
